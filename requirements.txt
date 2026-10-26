@@ -1,6 +1,8 @@
-opencv-python
-numpy
-matplotlib
-easyocr
 streamlit
+opencv-python-headless
+numpy
+easyocr
+torch
+torchvision
 pillow
+matplotlib
